@@ -1,9 +1,10 @@
-<html> 
-
-    <head>
-
-        <meta charset="utf-8" />
-
-                <link rel="stylesheet" href="idkidk.css">
-                <h1>Chapitre 1: Codage Python</h1>
+<html>
+	<head>
+		<meta charset="utf-8" />
+                	<link rel="stylesheet" href="style6.css">
+			<h1>Chapitre 1: Codage Python</h1>
 	</head>
+	
+	<img src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" height="100px" width="200px" />
+	
+	<body>
