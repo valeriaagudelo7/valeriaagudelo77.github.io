@@ -5,8 +5,15 @@
 			<h1>Chapitre 1: Codage Python</h1>
 	</head>
 	
-	<body>
-           <p>
 	<img src="python.jpg" height="100px" width="200px" />
 	
+	<body>
+		<hr width= "50%" align= "left" size= "2px" color="black"/>
+                <h2> Le Cours et les activites</h2>
+                <span class="rouge">
+		<hr width= "40%" align= "left" size= "2px" color="black"/>
+		 </span><br/>
+		
+                Voici les activités faites durant le chapitre de python:
+                </span><br/>
 	</body>
